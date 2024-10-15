@@ -1,0 +1,85 @@
+/* Remove default margin and create padding space for indicators and controls */
+.carousel {
+    margin-bottom: 0;
+    padding: 0 30px 30px 30px;
+    position: relative;
+}
+
+/* Reposition the controls slightly */
+.carousel-control {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 45px;
+    height: 45px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    z-index: 1;
+    transition: background-color 0.3s ease;
+}
+
+.carousel-control.left {
+    left: 10px;
+}
+
+.carousel-control.right {
+    right: 10px;
+}
+
+.carousel-control:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.carousel-control span {
+    font-size: 20px;
+    color: #fff;
+}
+
+
+/* Additional styling to enhance the carousel look */
+.carousel-inner {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.carousel-item img:hover {
+    transform: scale(1.05);
+}
+/* Reposition the controls and make the buttons darker */
+.carousel-control-prev, .carousel-control-next {
+    position: absolute;
+    top: 35%;
+    transform: translateY(-50%);
+    width: 45px;
+    height: 45px;
+    background-color: rgba(0, 0, 0, 0.1); /* Màu đậm hơn */
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    z-index: 1;
+    transition: background-color 0.3s ease;
+}
+
+.carousel-control-prev {
+    left: 10px;
+}
+
+.carousel-control-next {
+    right: 10px;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    background-color: rgba(0, 0, 0, 0.9); /* Tăng độ đậm khi hover */
+}
+
+.carousel-control-prev span, .carousel-control-next span {
+    font-size: 20px;
+    color: #fff;
+}

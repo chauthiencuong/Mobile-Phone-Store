@@ -1,0 +1,144 @@
+/* Payment.css */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-direction: row; /* Đặt chiều ngang để chia đôi */
+    justify-content: space-between; /* Căn giữa các phần */
+    gap: 20px; /* Khoảng cách giữa các phần */
+  }
+  
+  .user-info {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background: #f9f9f9;
+    flex: 1 1 40%; /* Điều chỉnh phần trăm của user-info */
+  }
+  
+  .order-info {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background: #f9f9f9;
+    flex: 1 1 60%; /* Điều chỉnh phần trăm của order-info để lớn hơn user-info */
+  }
+  
+  .user-info h3,
+  .order-info h3 {
+    margin-top: 0;
+    color: #007bff;
+  }
+  
+  .input-group,
+  .select-group {
+    margin-bottom: 16px;
+  }
+  
+  .input-group label,
+  .select-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .input-group input,
+  .select-group select,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .table img {
+    width: 100px;
+    height: auto;
+  }
+  
+  .table td {
+    text-align: center;
+  }
+  
+  .total-row {
+    font-weight: bold;
+  }
+  
+/* Định dạng container nút thanh toán */
+.payment-buttons {
+  display: block;
+  width: 50%; /* Chiếm toàn bộ chiều rộng */
+  padding: 10px;
+  background-color: blue; /* Màu xanh */
+  color: white;
+  border: none;
+  border-radius: 4px; /* Bo góc */
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center; /* Canh giữa chữ */
+  margin: 20px auto; /* Canh giữa nút với khoảng cách từ trên và dưới */
+}
+
+.payment-buttons:hover {
+  background-color: blue; /* Màu xanh đậm hơn khi di chuột qua */
+}
+
+.payment-option {
+  display: flex;
+  align-items: center; /* Căn giữa các phần tử theo chiều dọc */
+  gap: 10px; /* Khoảng cách giữa nút radio và hình ảnh */
+  margin-top: 20px;
+}
+
+.payment-option input[type="radio"] {
+  width: 15px; /* Đặt chiều rộng của nút radio */
+  height: 15px; /* Đặt chiều cao của nút radio */
+}
+
+.payment-option label {
+  display: flex;
+  align-items: center; /* Căn giữa các phần tử theo chiều dọc trong thẻ label */
+  gap: 10px; /* Khoảng cách giữa hình ảnh và văn bản */
+}
+
+.payment-option img {
+  width: 100px; /* Kích thước hình ảnh */
+  height: 80px; /* Kích thước hình ảnh */
+}
+
+.payment-option p {
+  margin: 0; /* Xóa khoảng cách mặc định của thẻ p */
+  font-weight: bold;
+  margin-left: 10px;
+}

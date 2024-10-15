@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "vPQ8Xo4BHG+/xTyOwplxhCUsjk/HjkXSZ2dWV1JfuTY=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "D:\\DoAnThucTap\\backend\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

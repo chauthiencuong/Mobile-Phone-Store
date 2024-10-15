@@ -1,0 +1,13 @@
+.brand-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.brand-card:hover .brand-image {
+    transform: scale(1.1);
+}

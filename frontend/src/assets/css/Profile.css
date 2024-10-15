@@ -1,0 +1,277 @@
+.payments-item img.mr-3 {
+    width: 47px;
+}
+.order-list .btn {
+    border-radius: 2px;
+    min-width: 121px;
+    font-size: 13px;
+    padding: 7px 0 7px 0;
+}
+.osahan-account-page-left .nav-link {
+    padding: 18px 20px;
+    border: none;
+    font-weight: 600;
+    color: #535665;
+}
+.osahan-account-page-left .nav-link i {
+    width: 28px;
+    height: 28px;
+    background: #535665;
+    display: inline-block;
+    text-align: center;
+    line-height: 29px;
+    font-size: 15px;
+    border-radius: 50px;
+    margin: 0 7px 0 0px;
+    color: #fff;
+}
+.osahan-account-page-left .nav-link.active {
+    background: #f3f7f8;
+    color: #282c3f !important;
+}
+.osahan-account-page-left .nav-link.active i {
+    background: #282c3f !important;
+}
+.osahan-user-media img {
+    width: 90px;
+}
+.card offer-card h5.card-title {
+    border: 2px dotted #000;
+}
+.card.offer-card h5 {
+    border: 1px dotted #daceb7;
+    display: inline-table;
+    color: #17a2b8;
+    margin: 0 0 19px 0;
+    font-size: 15px;
+    padding: 6px 10px 6px 6px;
+    border-radius: 2px;
+    background: #fffae6;
+    position: relative;
+}
+.card.offer-card h5 img {
+    height: 22px;
+    object-fit: cover;
+    width: 22px;
+    margin: 0 8px 0 0;
+    border-radius: 2px;
+}
+.card.offer-card h5:after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-bottom: 4px solid #daceb7;
+    content: "";
+    left: 30px;
+    position: absolute;
+    bottom: 0;
+}
+.card.offer-card h5:before {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid #daceb7;
+    content: "";
+    left: 30px;
+    position: absolute;
+    top: 0;
+}
+.payments-item .media {
+    align-items: center;
+}
+.payments-item .media img {
+    margin: 0 40px 0 11px !important;
+}
+.reviews-members .media .mr-3 {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+}
+.order-list img.mr-4 {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)!important;
+    border-radius: 2px;
+}
+.osahan-cart-item p.text-gray.float-right {
+    margin: 3px 0 0 0;
+    font-size: 12px;
+}
+.osahan-cart-item .food-item {
+    vertical-align: bottom;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+}
+
+.shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
+
+.rounded-pill {
+    border-radius: 50rem!important;
+}
+a:hover{
+    text-decoration:none;
+}
+.order-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.order-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    transition: box-shadow 0.3s;
+}
+
+.order-card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.order-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.order-header h5 {
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+.order-status {
+    margin-left: auto; /* Đẩy phần tử sang bên phải */
+    text-align: right; /* Đảm bảo nội dung bên trong căn phải */
+    font-weight: bold; /* Làm chữ đậm để nổi bật trạng thái */
+    padding: 4px 8px; /* Thêm khoảng đệm để trông đẹp hơn */
+    border-radius: 4px; /* Bo góc cho phần trạng thái */
+    color: #f3f7f8;
+}
+
+.order-status.pending {
+    background-color: #ff9800; /* Orange for pending */
+}
+
+.order-status.paid {
+    background-color: #4caf50; /* Green for paid */
+}
+
+.order-info {
+    margin-bottom: 16px; /* Khoảng cách dưới phần thông tin khác */
+}
+
+.order-info-total {
+    display: flex;
+    justify-content: flex-end; /* Canh lề phải cho phần tử tổng tiền */
+    align-items: center; /* Căn chỉnh dọc giữa các phần tử */
+    font-weight: bold; /* Làm chữ đậm hơn */
+}
+
+.order-info-total p {
+    margin: 0; /* Xóa margin để các phần tử không có khoảng cách thừa */
+}
+
+.order-info-total p:first-child {
+    margin-right: 8px; /* Thêm khoảng cách bên phải cho phần tử đầu tiên */
+}
+
+.order-info-total .total-price {
+    color: #e74c3c; /* Màu đỏ cho tổng tiền */
+    font-size: 18px; /* Kích thước chữ lớn hơn cho tổng tiền */
+}
+
+
+
+.order-items {
+    display: flex;
+    flex-direction: column;
+    gap: 16px; /* Khoảng cách giữa các mục đơn hàng */
+}
+
+.order-item-detail {
+    display: flex;
+    align-items: center;
+    gap: 16px; /* Khoảng cách giữa hình ảnh và chi tiết sản phẩm */
+    border-bottom: 1px solid #ddd; /* Đường viền dưới mỗi mục */
+    padding-bottom: 8px;
+}
+
+.product-info1 {
+    display: flex;
+    align-items: center;
+    gap: 16px; /* Khoảng cách giữa hình ảnh và chi tiết sản phẩm */
+}
+
+.product-image {
+    width: 80px; /* Kích thước hình ảnh nhỏ gọn */
+    height: 80px;
+    object-fit: cover; /* Cắt hình ảnh cho vừa khít */
+    border-radius: 4px; /* Bo góc hình ảnh */
+}
+
+.product-details p {
+    margin: 4px 0; /* Khoảng cách giữa các dòng thông tin */
+    font-size: 14px; /* Kích thước chữ nhỏ hơn cho các thông tin chi tiết */
+}
+
+.product-name {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.product-color,
+.product-configuration {
+    font-size: 14px; /* Kích thước chữ nhỏ hơn cho màu sắc và cấu hình */
+    color: #555; /* Màu chữ nhạt hơn để phân biệt */
+}
+
+.product-price {
+    color: #e74c3c; /* Màu đỏ cho giá */
+    font-weight: bold;
+    font-size: 16px; /* Kích thước chữ lớn hơn cho giá */
+}
+
+.order-header {
+    display: flex; /* Sử dụng Flexbox để căn chỉnh hình ảnh và tiêu đề trên cùng một hàng */
+    align-items: center; /* Căn chỉnh các phần tử theo chiều dọc */
+    gap: 8px; /* Thêm khoảng cách giữa hình ảnh và tiêu đề */
+    justify-content: flex-start; /* Đảm bảo nội dung căn chỉnh về phía trái */
+}
+
+.order-icon {
+    width: 30px; /* Kích thước hình ảnh */
+    height: 30px; /* Đảm bảo chiều cao đồng nhất với chiều rộng */
+}
+
+.order-title {
+    font-weight: bold; /* Làm chữ đậm hơn */
+    margin: 0; /* Xóa margin để khoảng cách chính xác hơn */
+    text-align: left; /* Đảm bảo tiêu đề căn chỉnh bên trái */
+}
+.nav-item {
+    display: flex; /* Sử dụng Flexbox để căn chỉnh */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    padding: 8px 0; /* Thêm khoảng cách giữa các mục */
+}
+
+.nav-icon {
+    width: 40px; /* Đảm bảo kích thước ảnh */
+    height: auto; /* Giữ tỉ lệ hình ảnh */
+}
+
+.nav-item span {
+    display: flex; /* Đảm bảo icon và text nằm trên cùng một hàng */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    margin-left: 25px; /* Khoảng cách giữa ảnh và văn bản */
+    font-size: 16px; /* Điều chỉnh kích thước chữ nếu cần */
+    font-weight: bold; /* Làm chữ đậm hơn */
+}
+
+
+

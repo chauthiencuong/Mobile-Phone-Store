@@ -1,0 +1,186 @@
+/* Product.css */
+.container-fluid {
+    background-color: transparent;
+    padding: 0 15px;
+    max-width: 1200px; /* Đặt chiều rộng tối đa cho container */
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Căn giữa các sản phẩm trong hàng */
+    margin-top: 20px; /* Tăng khoảng cách trên giữa các hàng */
+    margin-bottom: 30px; /* Tăng khoảng cách dưới giữa các hàng */
+}
+
+.col-md-2, .col-sm-4 {
+    margin-bottom: 30px; /* Thêm khoảng cách dưới mỗi sản phẩm */
+}
+
+.card {
+    transition: all 0.3s ease-in-out;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Đảm bảo tất cả các card có chiều cao đồng đều */
+    border: 2px solid #fff; /* Tăng độ dày và sử dụng màu sắc nổi bật */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Thêm hiệu ứng đổ bóng */
+}
+
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-top {
+    width: 80%;
+    height: 150px; /* Chiều cao của hình ảnh */
+    object-fit: cover; /* Đảm bảo ảnh không bị biến dạng */
+    display: block; /* Đảm bảo rằng phần tử là khối để áp dụng margin */
+    margin-left: auto; /* Căn giữa bằng cách tự động điều chỉnh lề trái */
+    margin-right: auto; /* Căn giữa bằng cách tự động điều chỉnh lề phải */
+    margin-top: 10px;
+}
+
+
+.discount-info {
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.discount-info a {
+    color: white;
+    text-decoration: none;
+}
+
+.card-body {
+    flex: 1; /* Cho phép body chiếm không gian còn lại */
+    padding: 15px;
+}
+
+.bold-btn {
+    font-weight: bold;
+    background-color: #ffc107;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.bold-btn:hover {
+    background-color: #e0a800;
+}
+
+.badge {
+    font-size: 0.8rem; /* Giảm kích thước font của badge */
+}
+.price-container {
+    display: flex; /* Sử dụng Flexbox để căn giữa nội dung */
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    width: 100%; /* Đảm bảo phần tử chiếm toàn bộ chiều rộng của phần tử chứa */
+}
+
+.original-price {
+    text-decoration: line-through; /* Thêm gạch ngang cho giá gốc */
+    margin-right: 1px;
+    margin-left: 10px;
+    color: black;
+    font-size: 10px;
+    
+}
+.price-sale {
+    background-color: transparent; /* Loại bỏ nền cho giá sale */
+    color: rgb(20, 53, 195); /* Màu đỏ cho giá sale */
+}
+.price-only {
+    color: rgb(20, 53, 195); /* Màu đỏ cho giá sale */
+    margin: 0; /* Đặt margin bằng 0 */
+    text-align: center; /* Căn giữa văn bản */
+}
+
+.card-title {   
+    font-size: 1rem;
+    color: #333;
+    text-decoration: none;
+}
+
+.card-title a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-title a:hover {
+    color: #007bff;
+}
+
+.aff-link {
+    font-size: 1.2rem;
+    color: #6c757d;
+    text-transform: uppercase;
+}
+
+.aff-link:hover {
+    color: red;
+    text-decoration: none;
+}
+.promotion-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* Product.css */
+
+/* Nút "Xem thêm sản phẩm" */
+.load-more-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff; /* Màu nền chính */
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+.load-more-btn:hover {
+    background-color: #0056b3; /* Màu nền khi hover */
+    transform: translateY(-2px); /* Hiệu ứng nổi khi hover */
+}
+
+.load-more-btn:active {
+    background-color: #004085; /* Màu nền khi click */
+    transform: translateY(0); /* Khôi phục vị trí khi click */
+}
+
+.load-more-btn:focus {
+    outline: none; /* Loại bỏ outline khi nút được focus */
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.5); /* Hiệu ứng focus */
+}
+
+.load-more-btn:disabled {
+    background-color: #c0c0c0; /* Màu nền khi nút bị vô hiệu hóa */
+    cursor: not-allowed;
+}
+
+/* Container để căn giữa nút */
+.load-more-container {
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    margin: 20px 0; /* Khoảng cách phía trên và dưới */
+}

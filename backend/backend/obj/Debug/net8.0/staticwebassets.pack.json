@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DoAnThucTap\\backend\\backend\\wwwroot\\uploads\\gallery\\0392ff3e-1115-4383-bff8-1714c540e760_samsung.png",
+      "PackagePath": "staticwebassets\\uploads\\gallery\\0392ff3e-1115-4383-bff8-1714c540e760_samsung.png"
+    },
+    {
+      "Id": "D:\\DoAnThucTap\\backend\\backend\\wwwroot\\uploads\\gallery\\9b714579-703b-4d37-a15e-13ba4331d82f_xiaomi.png",
+      "PackagePath": "staticwebassets\\uploads\\gallery\\9b714579-703b-4d37-a15e-13ba4331d82f_xiaomi.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

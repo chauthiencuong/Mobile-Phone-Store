@@ -1,0 +1,85 @@
+.promotion-page {
+    padding: 20px;
+}
+
+.banner-container {
+    margin-bottom: 20px;
+}
+
+.banner-image {
+    width: 80%;
+    max-width: 800px;
+    height: 400px; /* Đặt chiều cao cố định cho banner */
+    object-fit: cover; /* Đảm bảo ảnh không bị méo và giữ tỷ lệ */
+    display: block;
+    margin: 0 auto;
+}
+
+.promotion-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.promotion-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.promotion-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    max-width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.promotion-image-container {
+    width: 120px; /* Đặt chiều rộng cố định cho container ảnh */
+    height: 120px; /* Đặt chiều cao cố định cho container ảnh */
+    overflow: hidden; /* Ẩn phần ảnh tràn ra ngoài container */
+    margin-bottom: 10px;
+}
+
+.promotion-image {
+    width: 100%; /* Đặt chiều rộng 100% để ảnh chiếm toàn bộ container */
+    height: 100%; /* Đặt chiều cao 100% để ảnh chiếm toàn bộ container */
+    object-fit: cover; /* Đảm bảo ảnh không bị méo và giữ tỷ lệ */
+}
+
+.promotion-details {
+    text-align: center;
+}
+
+.promotion-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.promotion-dates {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.promotion-detail-button {
+    background-color: #007bff; /* Màu xanh của Bootstrap */
+    border: none;
+    color: white;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.promotion-detail-button:hover {
+    background-color: #0056b3; /* Màu xanh đậm hơn khi hover */
+}

@@ -1,0 +1,57 @@
+.menu-container1 {
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-left: 50px;
+}
+
+.list-group-item {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 15px 25px;
+  background-color: #f8f9fa;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.list-group-item:hover {
+  background-color: #e9ecef;
+  cursor: pointer;
+}
+
+.bi {
+  font-size: 24px;
+  color: #007bff;
+}
+.menu-container {
+  position: relative;
+}
+.menu-container .list-group-item {
+  margin: 0; /* Loại bỏ khoảng cách giữa các mục */
+}
+
+.list-group-item {
+  position: relative;
+}
+
+.submenu {
+  position: absolute;
+  left: 100%; /* Hiển thị submenu bên phải của danh mục cha */
+  top: 0; /* Căn chỉnh submenu với danh mục cha */
+  padding-left: 0; /* Xóa padding trái để submenu không bị lệch */
+  margin-left: 0px; /* Khoảng cách giữa danh mục cha và submenu */
+  display: none; /* Ẩn submenu mặc định */
+  background-color: #fff; /* Màu nền submenu */
+  border: 1px solid #ddd; /* Đường viền submenu */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Đổ bóng cho submenu */
+  z-index: 1000; /* Đảm bảo submenu hiển thị trên các phần tử khác */
+  min-width: 200px; /* Đặt độ rộng tối thiểu cho submenu */
+}
+
+.submenu .list-group-item {
+  white-space: nowrap; /* Ngăn ngừa cắt bớt văn bản trong submenu */
+  padding: 10px 15px; /* Tăng padding để phần tử submenu rộng hơn */
+  width: 100%; /* Đặt độ rộng phần tử submenu chiếm toàn bộ độ rộng của menu con */
+}
+
+.list-group-item:hover .submenu {
+  display: block; /* Hiển thị submenu khi rê chuột qua danh mục cha */
+}

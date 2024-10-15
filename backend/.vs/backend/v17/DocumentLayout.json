@@ -1,0 +1,1242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnThucTap\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\migrations\\20240825124650_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240825124650_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\irevenueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\irevenueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\revenueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\revenueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240824121454_FinalProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240824121454_FinalProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\colordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\colordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\configurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\configurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\productpromotiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\productpromotiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\revenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\revenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\promotiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\promotiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240821170239_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240821170239_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240821164026_MenuAndPost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240821164026_MenuAndPost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165516_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240819165516_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165420_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240819165420_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165144_Final02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240819165144_Final02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\productvariantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productvariantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\productpromotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productpromotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\productpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\productpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\model\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\model\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819163656_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240819163656_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819142515_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240819142515_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\dtos\\gallerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\dtos\\gallerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\mapping\\mappinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\mapping\\mappinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240809131612_Final0809.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240809131612_Final0809.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|d:\\doanthuctap\\backend\\backend\\service\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9EDB1-813A-410E-848F-B67787306D0F}|backend\\backend.csproj|solutionrelative:backend\\service\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ColorController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ColorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:50:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:06:49.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\PostController.cs",
+              "RelativeToolTip": "backend\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:48:12.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAUwJYBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:37:26.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MomoService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\MomoService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\MomoService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\MomoService.cs",
+              "RelativeToolTip": "backend\\Service\\MomoService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwHwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:35:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\EmailService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\EmailService.cs",
+              "RelativeToolTip": "backend\\Service\\EmailService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:13:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\DataContext.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Data\\DataContext.cs",
+              "RelativeToolTip": "backend\\Data\\DataContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wK8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:01:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\GalleryController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "backend\\Controllers\\GalleryController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:15:58.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\EmailController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "backend\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:53:25.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Gallery.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Gallery.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Gallery.cs",
+              "RelativeToolTip": "backend\\Model\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:42:07.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Product.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Product.cs",
+              "RelativeToolTip": "backend\\Model\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:38:47.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:47:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240825124650_Final.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240825124650_Final.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240825124650_Final.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240825124650_Final.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240825124650_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:46:51.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:10:13.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\ProductVariant.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\ProductVariant.cs",
+              "RelativeToolTip": "backend\\Model\\ProductVariant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:47:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T13:14:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\OrderDetailService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\OrderDetailService.cs",
+              "RelativeToolTip": "backend\\Service\\OrderDetailService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:16:31.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRevenueService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\IRevenueService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\IRevenueService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\IRevenueService.cs",
+              "RelativeToolTip": "backend\\Service\\IRevenueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:22:47.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RevenueService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\RevenueService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\RevenueService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\RevenueService.cs",
+              "RelativeToolTip": "backend\\Service\\RevenueService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:15.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\OrderService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\OrderService.cs",
+              "RelativeToolTip": "backend\\Service\\OrderService.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAnwMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:59:55.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Order.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Order.cs",
+              "RelativeToolTip": "backend\\Model\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:52:54.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\OrderDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:04:37.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240824121454_FinalProject.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240824121454_FinalProject.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240824121454_FinalProject.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240824121454_FinalProject.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240824121454_FinalProject.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:14:54.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:07:14.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "backend\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAvwGgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:16:09.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\CartDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\CartDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\CartDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\CartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:24:12.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BannerController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BannerController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:08:52.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ColorDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ColorDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ColorDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ColorDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\ColorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:27:28.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConfigurationDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ConfigurationDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ConfigurationDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ConfigurationDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\ConfigurationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:27:34.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\User.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\User.cs",
+              "RelativeToolTip": "backend\\Model\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:42:10.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BannerDto.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\BannerDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\BannerDto.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\BannerDto.cs",
+              "RelativeToolTip": "backend\\DTOs\\BannerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:53:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BrandDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\BrandDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\BrandDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\BrandDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\BrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:48:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:48:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:47:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MenuDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\MenuDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\MenuDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\MenuDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\MenuDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:41:38.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:41:33.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:00:27.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductPromotionDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ProductPromotionDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ProductPromotionDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ProductPromotionDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\ProductPromotionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:10:17.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductVariantDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ProductVariantDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ProductVariantDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ProductVariantDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\ProductVariantDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:21:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RevenueDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\RevenueDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\RevenueDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\RevenueDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\RevenueDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:21:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ReviewDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\ReviewDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:08:11.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PromotionDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\PromotionDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\PromotionDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\PromotionDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\PromotionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:10:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Category.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Category.cs",
+              "RelativeToolTip": "backend\\Model\\Category.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:31:24.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RevenueController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\RevenueController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\RevenueController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\RevenueController.cs",
+              "RelativeToolTip": "backend\\Controllers\\RevenueController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:24:59.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:36:28.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "backend\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAIwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:47:58.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Menu.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Menu.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Menu.cs",
+              "RelativeToolTip": "backend\\Model\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:33:15.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Post.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Post.cs",
+              "RelativeToolTip": "backend\\Model\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:59:32.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\PostDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:41:48.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Banner.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Banner.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Banner.cs",
+              "RelativeToolTip": "backend\\Model\\Banner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:33:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAUwMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:47:10.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240821170239_Final.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240821170239_Final.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240821170239_Final.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240821170239_Final.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240821170239_Final.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:02:39.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Brand.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Brand.cs",
+              "RelativeToolTip": "backend\\Model\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:33:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240821164026_MenuAndPost.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240821164026_MenuAndPost.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240821164026_MenuAndPost.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240821164026_MenuAndPost.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240821164026_MenuAndPost.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:40:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Review.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Review.cs",
+              "RelativeToolTip": "backend\\Model\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:04:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAEwDUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:09:20.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240819165420_Final.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165420_Final.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240819165420_Final.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165420_Final.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240819165420_Final.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:54:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240819165516_Final.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165516_Final.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240819165516_Final.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165516_Final.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240819165516_Final.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:55:16.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240819165144_Final02.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165144_Final02.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240819165144_Final02.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819165144_Final02.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240819165144_Final02.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:51:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\PromotionController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "backend\\Controllers\\PromotionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:09:18.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductPromotionController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ProductPromotionController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductPromotionController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ProductPromotionController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductPromotionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:49:58.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductVariantController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ProductVariantController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductVariantController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\ProductVariantController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductVariantController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwJYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:22:55.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Cart.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Cart.cs",
+              "RelativeToolTip": "backend\\Model\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:33:03.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Color.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Color.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Color.cs",
+              "RelativeToolTip": "backend\\Model\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:32:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Configuration.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Configuration.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Configuration.cs",
+              "RelativeToolTip": "backend\\Model\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:42:13.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductPromotion.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\ProductPromotion.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\ProductPromotion.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\ProductPromotion.cs",
+              "RelativeToolTip": "backend\\Model\\ProductPromotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:42:11.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240819163656_Final.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819163656_Final.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240819163656_Final.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819163656_Final.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240819163656_Final.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:36:56.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240819142515_Final.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819142515_Final.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240819142515_Final.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240819142515_Final.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240819142515_Final.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:25:15.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Model\\Promotion.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Promotion.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Model\\Promotion.cs",
+              "RelativeToolTip": "backend\\Model\\Promotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:29:32.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "backend\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwEYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:16:16.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GalleryDTO.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\GalleryDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\GalleryDTO.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\DTOs\\GalleryDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\GalleryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:20:03.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\CartService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\CartService.cs",
+              "RelativeToolTip": "backend\\Service\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:16:29.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "backend.http",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend\\backend.http",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\backend.http",
+              "RelativeToolTip": "backend\\backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-09T15:29:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MappingUser.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Mapping\\MappingUser.cs",
+              "RelativeDocumentMoniker": "backend\\Mapping\\MappingUser.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Mapping\\MappingUser.cs",
+              "RelativeToolTip": "backend\\Mapping\\MappingUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:21:16.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240809131612_Final0809.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240809131612_Final0809.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240809131612_Final0809.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Migrations\\20240809131612_Final0809.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240809131612_Final0809.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:16:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "D:\\DoAnThucTap\\backend\\backend\\Service\\PromotionService.cs",
+              "RelativeDocumentMoniker": "backend\\Service\\PromotionService.cs",
+              "ToolTip": "D:\\DoAnThucTap\\backend\\backend\\Service\\PromotionService.cs",
+              "RelativeToolTip": "backend\\Service\\PromotionService.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAcwPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:10:41.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+/* Header.css */
+
+body {
+    margin: 0; /* Loại bỏ margin của body */
+    overflow-x: hidden; /* Ẩn thanh cuộn ngang */
+}
+  
+.header-container {
+    margin-top: 0;
+    padding-top: 0;
+    border: none;
+  }
+  .header-image {
+    display: block;
+    margin: 0 auto; /* Căn giữa ảnh */
+    padding: 0;
+    width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng */
+    height: auto; /* Đảm bảo tỷ lệ ảnh không bị biến dạng */
+    max-width: 200%; /* Đảm bảo ảnh không vượt quá chiều rộng của phần tử chứa */
+    margin-right: 50px;
+}
+.header-logo{
+    margin-left: 100px;
+}
+.navbar {
+    background-color: #ffffff; /* Màu nền cho navbar */
+    padding: 0.5rem; /* Giảm padding của navbar */
+    box-sizing: border-box; /* Bao gồm padding vào kích thước */
+}
+
+.navbar-nav {
+    font-size: 0.875rem; /* Kích thước chữ nhỏ hơn cho các mục menu */
+}
+
+.navbar-nav .nav-link {
+    padding: 0.5rem 1rem; /* Giảm padding của các mục menu */
+}
+
+.navbar-brand img {
+    width: 200px; /* Giảm kích thước của logo */
+    height: auto; /* Giữ tỷ lệ khung hình của logo */
+}
+
+.search-form {
+    flex: 1; /* Để form tìm kiếm chiếm không gian còn lại */
+    max-width: 600px; /* Giới hạn chiều rộng của form tìm kiếm */
+    margin: 0 auto; /* Căn giữa thanh tìm kiếm */
+    margin-left: 50px;
+    margin-top: 2px;
+}
+
+.navbar-nav-right {
+    margin-left: auto; /* Đẩy các mục về bên phải */
+    }
+
+.banner-container {
+    display: flex; /* Sử dụng Flexbox để căn chỉnh các phần tử */
+    align-items: flex-start; /* Canh chỉnh các phần tử ở đầu */
+    margin: 1rem 0; /* Khoảng cách trên và dưới banner */
+    justify-content: space-between; /* Tạo khoảng cách đều giữa các phần tử */
+    box-sizing: border-box; /* Bao gồm padding và border vào kích thước */
+}
+
+.menu-container {
+    flex-basis: 250px; /* Kích thước cố định cho menu */
+    max-width: 250px; /* Giới hạn chiều rộng của menu */
+    box-sizing: border-box; /* Bao gồm padding và border vào kích thước */
+}
+
+.list-group {
+    font-size: 0.75rem; /* Kích thước chữ nhỏ hơn cho danh sách */
+    margin-right: 1rem; /* Khoảng cách giữa danh sách và banner */
+}
+
+.list-group-item {
+    padding: 0.5rem; /* Giảm padding của các mục trong danh sách */
+}
+
+/* Custom CSS for the slider */
+.banner {
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 8px; /* Bo tròn các góc */
+    margin-left: 0px;
+}
+
+.slider-home-banner .carousel-inner {
+    max-height: 430px; /* Chiều cao tối đa cho slider */
+    max-width: 900px; /* Chiều cao tối đa cho slider */
+    overflow: hidden;
+    border-radius: 8px; /* Bo tròn các góc */
+}
+
+.slider-home-banner .carousel-item {
+    height: 500px; /* Đặt chiều cao cố định cho các item trong slider */
+}
+
+.slider-home-banner .carousel-item img {
+    width: 100%; /* Đảm bảo hình ảnh chiếm hết chiều rộng */
+    height: 100%; /* Đảm bảo hình ảnh chiếm hết chiều cao */
+    object-fit: cover; /* Đảm bảo hình ảnh được phủ đầy container */
+}
+
+.slider-home-banner .carousel-control-prev-icon,
+.slider-home-banner .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Nền đen mờ cho các biểu tượng điều khiển */
+    border-radius: 50%;
+    padding: 10px; /* Tăng kích thước của các biểu tượng */
+}
+
+.extra-images {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column; /* Xếp các ảnh theo chiều dọc */
+    gap: 0.5rem; /* Khoảng cách giữa các ảnh */
+    box-sizing: border-box; /* Bao gồm padding và border vào kích thước */
+    margin-right: 50px;
+    margin-left: 20px;
+    max-width: 195px; /* Giảm chiều rộng của khu vực ảnh bổ sung */
+    max-height: 300px; 
+}
+
+/* Đặt khoảng cách cho các mục trong thanh điều hướng bên phải */
+.navbar-nav-right .nav-item {
+    margin-left: 3rem; /* Khoảng cách giữa các mục */
+    margin-right: -1rem;
+}
+
+/* Đảm bảo rằng các phần tử con bên trong nav-item không bị ảnh hưởng bởi margin */
+.navbar-nav-right .nav-link {
+    margin: 0; /* Đặt margin là 0 để tránh xung đột với margin của nav-item */
+    display: flex; /* Đảm bảo các liên kết trong nav-item sử dụng flexbox */
+    align-items: center; /* Căn giữa nội dung của liên kết */
+}
+/* Đảm bảo .nav-link có display flex để căn chỉnh nội dung bên trong */
+.navbar-nav-right .nav-link {
+    display: flex;
+    align-items: center;
+}
+
+/* Khoảng cách giữa ảnh và chữ */
+.navbar-nav-right .nav-link img {
+    margin-right: 8px; /* Khoảng cách giữa ảnh và chữ */
+}
+/* Header.css */
+
+/* Đảm bảo .nav-item có display flex để căn chỉnh nội dung bên trong */
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+/* Đảm bảo .nav-link có display flex để căn chỉnh nội dung bên trong */
+.nav-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none; /* Loại bỏ gạch chân mặc định */
+}
+
+/* Phần tử chứa thông tin giỏ hàng */
+.cart-info {
+    display: flex;
+    flex-direction: column; /* Xếp các phần tử con theo chiều dọc */
+    margin-right: 50px;
+}
+
+/* Căn chỉnh các phần tử trong .cart-info */
+.cart-description {
+    margin: 0;
+}
+
+.cart-count {
+    margin: 0;
+    color: #666; /* Thay đổi màu chữ để phân biệt số lượng sản phẩm */
+}
+/* CSS cho phần menu chính */
+.main-nav {
+    background-color: #007bff; /* Màu nền xanh cho thanh điều hướng chính */
+}
+
+.main-nav-container {
+    padding: 0 20px; /* Padding trái và phải của container */
+    max-width: 1200px; /* Chiều rộng tối đa của container */
+    margin: 0 auto; /* Căn giữa container */
+}
+
+.main-nav .nav-link {
+    color: #ffffff; /* Màu chữ trắng cho liên kết trong menu chính */
+}
+
+.main-nav .dropdown-menu {
+    background-color: #007bff; /* Màu nền xanh cho menu dropdown */
+}
+
+.main-nav .dropdown-item {
+    color: #ffffff; /* Màu chữ trắng cho các mục trong menu dropdown */
+}
+
+.main-nav .dropdown-item:hover {
+    background-color: #0056b3; /* Màu nền xanh đậm khi hover trên các mục menu dropdown */
+}
+
+/* CSS cho phần logo và thanh tìm kiếm */
+.secondary-nav .navbar-brand .header-image {
+    width: 100px; /* Điều chỉnh kích thước logo nếu cần */
+}
+
+.secondary-nav .search-form .form-control {
+    border-radius: 20px; /* Góc bo tròn cho thanh tìm kiếm */
+    border: 1px solid #ced4da; /* Màu viền thanh tìm kiếm */
+}
+
+.secondary-nav .nav-link {
+    color: #000000; /* Màu chữ đen cho các liên kết trong phần này */
+}
+
+.secondary-nav .cart-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.secondary-nav .cart-description {
+    margin: 0;
+    font-size: 14px;
+}
+
+.secondary-nav .cart-count {
+    margin: 0;
+    font-weight: bold;
+}
+/* CSS cho form tìm kiếm */
+.search-form {
+    position: relative;
+    max-width: 600px; /* Tăng kích thước tối đa của form để nó trông thoải mái hơn */
+    margin: 0 auto; /* Căn giữa form */
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px 16px; /* Tăng padding để tạo cảm giác thoải mái hơn */
+    border-radius: 8px; /* Bo tròn góc để trông hiện đại */
+    border: 1px solid #ddd; /* Đường viền nhẹ */
+    font-size: 16px; /* Kích thước chữ cho input */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Thêm bóng nhẹ */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; /* Thêm hiệu ứng chuyển màu viền và bóng */
+}
+
+.form-control:focus {
+    border-color: #007bff; /* Màu viền khi input được focus */
+    box-shadow: 0 2px 6px rgba(0, 123, 255, 0.25); /* Thay đổi bóng khi focus */
+    outline: none; /* Xóa outline mặc định */
+}
+
+.search-results {
+    position: absolute;
+    top: 100%; /* Đặt vị trí của kết quả tìm kiếm dưới input */
+    left: 0;
+    width: 100%;
+    max-height: 400px; /* Chiều cao tối đa của kết quả tìm kiếm */
+    overflow-y: auto; /* Thêm thanh cuộn nếu cần */
+    background-color: #fff; /* Màu nền trắng */
+    border: 1px solid #ddd; /* Đường viền nhẹ */
+    border-radius: 8px; /* Bo tròn góc */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Thêm bóng */
+    z-index: 1000; /* Đảm bảo kết quả tìm kiếm nằm trên các phần tử khác */
+    margin-top: 8px; /* Khoảng cách giữa input và kết quả tìm kiếm */
+}
+
+.search-results ul {
+    list-style: none; /* Xóa dấu chấm của danh sách */
+    margin: 0;
+    padding: 0;
+}
+
+.search-results li {
+    border-bottom: 1px solid #ddd; /* Đường viền giữa các item */
+}
+
+.search-results li:last-child {
+    border-bottom: none; /* Xóa đường viền cho item cuối cùng */
+}
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px; /* Padding đồng nhất với input */
+    color: #333; /* Màu chữ */
+    transition: background-color 0.2s ease; /* Thêm hiệu ứng chuyển màu nền khi hover */
+    text-decoration: none; /* Xóa gạch chân cho link */
+}
+
+.search-result-item:hover {
+    background-color: #f9f9f9; /* Màu nền khi hover */
+}
+
+.search-result-item img {
+    border-radius: 8px; /* Bo tròn góc của hình ảnh */
+    margin-right: 12px; /* Khoảng cách giữa hình ảnh và nội dung */
+    flex-shrink: 0; /* Đảm bảo hình ảnh không bị co lại */
+}
+
+.search-result-item div {
+    display: flex;
+    flex-direction: column; /* Sắp xếp các phần tử theo cột */
+}
+
+.search-result-item .text-muted {
+    color: #888; /* Màu chữ cho phần phụ */
+}
+
+.price-info {
+    display: flex;
+    align-items: center;
+}
+
+.promotion-price {
+    color: hsl(211, 100%, 50%);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.separator {
+    margin: 0 5px; /* Khoảng cách giữa giá khuyến mãi và giá gốc */
+}
+
+.product-pricetimkiem {
+    color: #6c757d;
+    font-size: 16px;
+    text-decoration: line-through;
+}
+
+.product-only {
+    font-size: 18px; /* Kích thước chữ cho giá khi không có khuyến mại */
+    color: hsl(211, 100%, 50%); /* Màu sắc cho giá */
+    font-weight: bold; /* Font-weight đậm cho giá khuyến mại */
+}
+
+.logout-menu {
+    position: relative; /* Đảm bảo rằng menu có thể được định vị chính xác nếu cần */
+    display: inline-block; /* Hiển thị menu bên cạnh các phần tử khác nếu cần */
+}
+
+.logout-item {
+    cursor: pointer; /* Hiển thị con trỏ chuột khi di chuột qua */
+    padding: 10px 15px; /* Khoảng cách bên trong */
+    border-radius: 4px; /* Bo tròn các góc */
+    background-color: #f8f9fa; /* Màu nền sáng cho menu */
+    color: #dc3545; /* Màu chữ đỏ cho đăng xuất */
+    font-size: 16px; /* Kích thước chữ */
+    font-weight: 500; /* Định dạng chữ đậm */
+    border: 1px solid #ddd; /* Đường viền nhẹ */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Đổ bóng nhẹ để tạo chiều sâu */
+    transition: background-color 0.3s, color 0.3s, transform 0.3s; /* Hiệu ứng chuyển tiếp cho các thuộc tính */
+}
+
+.logout-item:hover {
+    background-color: #e2e6ea; /* Màu nền khi di chuột qua */
+    color: #c82333; /* Màu chữ khi di chuột qua */
+    transform: scale(1.05); /* Tăng kích thước một chút khi di chuột qua */
+}
+
+.logout-item:active {
+    background-color: #d6d6d6; /* Màu nền khi nhấn */
+    color: #a71d2a; /* Màu chữ khi nhấn */
+}
+.product-note{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #888;
+}
